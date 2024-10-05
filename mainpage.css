@@ -1,0 +1,30 @@
+.outbox{
+    border: soild 1px;
+    height: 550px;
+    background-image: url(bg5.webp);
+    background-repeat: no-repeat;
+    background-size: 1500px 750px;
+}
+#nav{
+    border: solid 1px wheat;
+    height: 50px;
+    line-height: 50px;-+
+}
+#in{
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+    padding-right: 25px;
+    font-weight: bold;
+}
+.out{
+    border: soild 1px;
+    height: 580px;
+}
+#SHA{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 100px;
+    text-shadow: 3px 3px 5px red;
+}
